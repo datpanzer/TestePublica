@@ -1,0 +1,24 @@
+namespace JogoBasquete {
+    
+    public class Jogo {
+        
+        public Jogo(int id, int placar) {
+            Id = id;
+            Placar = placar;
+        }
+        
+        public final int Id {
+            get {
+            }
+            set {
+            }
+        }
+        
+        public final int Placar {
+            get {
+            }
+            set {
+            }
+        }
+    }
+}
