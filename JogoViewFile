@@ -1,0 +1,56 @@
+namespace JogoBasquete {
+    
+    public class JogoViewModel {
+        
+        public JogoViewModel(int id, int placar, int menorPlacar, int maiorPlacar, int quebraRecordeMin, int quebraRecordeMax) {
+            Id = id;
+            Placar = placar;
+            MenorPlacar = menorPlacar;
+            MaiorPlacar = maiorPlacar;
+            QuebraRecordeMin = quebraRecordeMin;
+            QuebraRecordeMax = quebraRecordeMax;
+        }
+        
+        public final int Id {
+            get {
+            }
+            set {
+            }
+        }
+        
+        public final int Placar {
+            get {
+            }
+            set {
+            }
+        }
+        
+        public final int MenorPlacar {
+            get {
+            }
+            set {
+            }
+        }
+        
+        public final int MaiorPlacar {
+            get {
+            }
+            set {
+            }
+        }
+        
+        public final int QuebraRecordeMin {
+            get {
+            }
+            set {
+            }
+        }
+        
+        public final int QuebraRecordeMax {
+            get {
+            }
+            set {
+            }
+        }
+    }
+}
